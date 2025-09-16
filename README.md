@@ -118,7 +118,6 @@ While running, the process accepts simple stdin commands:
 
 ## License
 
-MIT License — see LICENSE file.
-
+MIT License 
 
 ---
