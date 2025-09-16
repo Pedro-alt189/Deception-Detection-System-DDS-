@@ -1,0 +1,13 @@
+{
+  "interface": "Ethernet",
+  "ports": [21, 22, 23, 25],
+  "log_file": "honeypot.log",
+  "snaplen": 65535,
+  "promisc": true,
+  "timeout_ms": 500,
+  "elastic_url": "http://127.0.0.1:9200",
+  "elastic_index": "honeypot",
+  "max_payload": 4096,
+  "scan_window_s": 30,
+  "scan_port_thresh": 10
+}
