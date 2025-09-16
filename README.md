@@ -59,7 +59,7 @@ go build -o honeypot main.go
 ```
 
 ### Example `config.json`
-
+Edit the interface , cause on Windows it's Ethernet, on Linux it's eth0
 ```json
 {
   "interface": "",
@@ -121,3 +121,4 @@ While running, the process accepts simple stdin commands:
 MIT License 
 
 ---
+
