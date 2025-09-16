@@ -111,5 +111,6 @@ stdin-команды в runtime:
 
 ## Лицензия
 
-MIT License 
+[MIT](./LICENSE)
+
 
